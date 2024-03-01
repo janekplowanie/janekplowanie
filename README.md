@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @janekplowanie
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in applying statistical methods in all sorts of disciplines
 
 <!---
 janekplowanie/janekplowanie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
