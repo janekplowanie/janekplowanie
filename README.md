@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janekplowanie
-- 👀 I’m interested in applying statistical methods in all sorts of disciplines
+- 👀 I’m interested in applying statistical and ML methods in all sorts of disciplines
 
 <!---
 janekplowanie/janekplowanie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
